@@ -1,0 +1,48 @@
+.navbar bg-body-tertiary{
+    text-align: center;
+}
+.container-fluid{
+    text-align: center;
+}
+.form-control me-2{
+    text-align: center;
+    background-color: orange;
+}
+.sell{
+    text-align: left;
+}
+.jumia{
+    text-align: center;
+}
+.food{
+    text-align: ;
+}
+.pay{
+    text-align: right;
+}
+.container{
+    padding: 10px;
+    margin-top: ;
+}
+.background{
+    text-align: center;
+    background-color: black;
+    font-style: italic;
+    color: antiquewhite;
+    margin: 1%;
+}
+.btn btn-outline-success{
+    background-color: orangered;
+}
+.nov{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sell::hover{
+    color: blueviolet;
+}
+.jumia::hover{
+    color: aqua;
+}
+.food::hover{
+color: brown;
+}
